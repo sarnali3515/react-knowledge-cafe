@@ -1,0 +1,58 @@
+[
+    {
+        "Id": 1,
+        "cover": "https://i.ibb.co/84Zfw2n/1.png",
+        "title": "The Mystery of the Sapphire Stone",
+        "author": "Elena Silver",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "posted_date": "March 15, 2024",
+        "reading_time": 2,
+        "hashtags": [
+            "mystery",
+            "adventure",
+            "fiction"
+        ]
+    },
+    {
+        "Id": 2,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "Echoes of Eternity",
+        "author": "Jonathan Steele",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "posted_date": "March 14, 2024",
+        "reading_time": 3.5,
+        "hashtags": [
+            "fantasy",
+            "magic",
+            "journey"
+        ]
+    },
+    {
+        "Id": 3,
+        "cover": "https://i.ibb.co/RzGzcPg/3.jpg",
+        "title": "City of Whispers",
+        "author": "Samantha Rivers",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "posted_date": "March 13, 2024",
+        "reading_time": 1.5,
+        "hashtags": [
+            "thriller",
+            "suspense",
+            "crime"
+        ]
+    },
+    {
+        "Id": 4,
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "The Lost Kingdom",
+        "author": "Michael Black",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "posted_date": "March 12, 2024",
+        "reading_time": 2.75,
+        "hashtags": [
+            "adventure",
+            "exploration",
+            "history"
+        ]
+    }
+]
