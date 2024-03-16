@@ -1,6 +1,6 @@
 [
     {
-        "Id": 1,
+        "id": 1,
         "cover": "https://i.ibb.co/84Zfw2n/1.png",
         "title": "The Mystery of the Sapphire Stone",
         "author": "Elena Silver",
@@ -14,7 +14,7 @@
         ]
     },
     {
-        "Id": 2,
+        "id": 2,
         "cover": "https://i.ibb.co/6N2dgnZ/2.png",
         "title": "Echoes of Eternity",
         "author": "Jonathan Steele",
@@ -28,7 +28,7 @@
         ]
     },
     {
-        "Id": 3,
+        "id": 3,
         "cover": "https://i.ibb.co/RzGzcPg/3.jpg",
         "title": "City of Whispers",
         "author": "Samantha Rivers",
@@ -42,7 +42,7 @@
         ]
     },
     {
-        "Id": 4,
+        "id": 4,
         "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
         "title": "The Lost Kingdom",
         "author": "Michael Black",
